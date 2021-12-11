@@ -62,7 +62,7 @@ exports.panel = (prefix, time, fechamex, fechabol, fechachi, fechaarg, fechacol,
 *║├${prefix}antifakes*
 *║├${prefix}antiestranjeros*
 *║├${prefix}l*
-*║├${prefix}.*
+*║├${prefix}.autoba*
 *║├${prefix}buscamsj*
 *║├${prefix}delttc*
 *║╰—————————*
